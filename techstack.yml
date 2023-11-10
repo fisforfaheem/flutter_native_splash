@@ -1,0 +1,342 @@
+repo_name: fisforfaheem/flutter_native_splash
+report_id: 45c7deb9b808ddb7e61fa3c25402b6af
+repo_type: Public
+timestamp: '2023-11-10T06:41:50+00:00'
+requested_by: jonbhanson
+provider: github
+branch: master
+detected_tools_count: 28
+tools:
+- name: Dart
+  description: A new web programming language with libraries, a virtual machine, and
+    tools
+  website_url: https://www.dartlang.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1646/Twitter-02.png
+  detection_source: Repo Metadata
+- name: Java
+  description: A concurrent, class-based, object-oriented, language specifically designed
+    to have as few implementation dependencies as possible
+  website_url: https://www.java.com
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source: pubspec.yaml
+  last_updated_by: Jon Hanson
+  last_updated_on: 2022-11-27 17:57:01.000000000 Z
+- name: Objective-C
+  description: The primary programming language you use when writing software for
+    OS X and iOS
+  website_url: https://developer.apple.com/library/mac/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1008/xcode.png
+  detection_source: Repo Metadata
+- name: Ruby
+  description: A dynamic, interpreted, open source programming language with a focus
+    on simplicity and productivity
+  website_url: https://www.ruby-lang.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/989/ruby.png
+  detection_source: Repo Metadata
+- name: Swift
+  description: 'An innovative new programming language for Cocoa and Cocoa Touch. '
+  website_url: https://developer.apple.com/swift/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1009/tuHsaI2U.png
+  detection_source: ios/flutter_native_splash.podspec
+  last_updated_by: Jon Hanson
+  last_updated_on: 2022-02-20 15:13:54.000000000 Z
+- name: Android SDK
+  description: An SDK that provides you the API libraries and developer tools necessary
+    to build, test, and debug apps for Android.
+  website_url: http://developer.android.com
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1010/m8jf0po4imu8t5eemjdd.png
+  detection_source: example/android/app/build.gradle
+  last_updated_by: Jon Hanson
+  last_updated_on: 2022-02-20 15:13:54.000000000 Z
+- name: Flutter
+  description: Cross-platform mobile framework from Google
+  website_url: https://flutter.io/
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Cross-Platform Mobile Development
+  image_url: https://img.stackshare.io/service/7180/flutter-mark-square-100.png
+  detection_source: pubspec.yaml
+  last_updated_by: Jon Hanson
+  last_updated_on: 2022-09-25 13:57:05.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
+- name: GitHub Actions
+  description: Automate your workflow from idea to production
+  website_url: https://github.com/features/actions
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source: ".github/workflows/ci.yaml"
+  last_updated_by: lsaudon
+  last_updated_on: 2022-10-23 15:15:44.000000000 Z
+- name: Gradle
+  description: A powerful build system for the JVM
+  website_url: https://www.gradle.org/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Java Build Tools
+  image_url: https://img.stackshare.io/service/975/gradlephant-social-black-bg.png
+  detection_source: android/build.gradle
+  last_updated_by: Jon Hanson
+  last_updated_on: 2022-09-25 13:57:05.000000000 Z
+- name: Travis CI
+  description: A hosted continuous integration service for open source and private
+    projects
+  website_url: http://travis-ci.com/
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
+  detection_source: ".travis.yml"
+  last_updated_by: Henrique Arthur
+  last_updated_on: 2019-08-25 20:41:54.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source: pubspec.yaml
+  last_updated_by: Henrique Arthur
+  last_updated_on: 2019-08-25 00:12:53.000000000 Z
+- name: Android OS
+  description: An open source mobile operating system by Google
+  website_url: https://www.android.com
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Operating Systems
+  image_url: https://img.stackshare.io/service/9586/ZvmtaSXW_400x400.jpg
+  detection_source: example/android/app/build.gradle
+  last_updated_by: Jon Hanson
+  last_updated_on: 2022-02-20 15:13:54.000000000 Z
+- name: CocoaPods
+  description: A dependency manager for Swift and Objective-C Cocoa projects
+  website_url: https://cocoapods.org/
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: CocoaPods Packages
+  image_url: https://img.stackshare.io/service/2426/e1cbdef9d4b11484049a033886578e54_400x400.png
+  detection_source: ios/flutter_native_splash.podspec
+  last_updated_by: Jon Hanson
+  last_updated_on: 2022-02-20 15:13:54.000000000 Z
+- name: js
+  website_url: www.js.com
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/5588/jscom.png
+  detection_source: pubspec.yaml
+  last_updated_by: Henrique Arthur
+  last_updated_on: 2019-08-25 00:12:53.000000000 Z
+- name: args
+  description: Library for defining parsers for parsing raw command-line arguments
+    into a set of options and values using GNU and POSIX style options
+  package_url: https://pub.dartlang.org/args
+  version: 2.3.1
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: example/pubspec.lock
+  detection_source: pubspec.yaml
+  last_updated_by: Jon Hanson
+  last_updated_on: 2022-05-15 15:07:37.000000000 Z
+- name: cupertino_icons
+  description: Default icons asset for Cupertino widgets based on Apple styled icons
+  package_url: https://pub.dartlang.org/cupertino_icons
+  version: 1.0.5
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: example/pubspec.lock
+  detection_source: example/pubspec.yaml
+  last_updated_by: Jon Hanson
+  last_updated_on: 2022-09-25 13:57:05.000000000 Z
+- name: flutter
+  description: Visit flutter.io to get started
+  package_url: https://pub.dartlang.org/flutter
+  version: 0.0.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: example/pubspec.lock
+  detection_source: pubspec.yaml
+  last_updated_by: Jon Hanson
+  last_updated_on: 2022-09-25 13:57:05.000000000 Z
+- name: flutter_native_splash
+  description: Customize Flutter's default white native splash screen with background
+    color and splash image
+  package_url: https://pub.dartlang.org/flutter_native_splash
+  version: 2.2.17
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: example/pubspec.lock
+  detection_source: example/pubspec.yaml
+  last_updated_by: Jon Hanson
+  last_updated_on: 2022-11-27 17:57:01.000000000 Z
+- name: html
+  description: APIs for parsing and manipulating HTML content outside the browser
+  package_url: https://pub.dartlang.org/html
+  version: 0.15.1
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: example/pubspec.lock
+  detection_source: pubspec.yaml
+  last_updated_by: Jon Hanson
+  last_updated_on: 2022-10-23 16:54:21.000000000 Z
+- name: image
+  description: Dart Image Library provides server and web apps the ability to load
+  package_url: https://pub.dartlang.org/image
+  version: 4.0.10
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: example/pubspec.lock
+  detection_source: pubspec.yaml
+  last_updated_by: Jon Hanson
+  last_updated_on: 2023-01-16 02:50:13.000000000 Z
+- name: js
+  description: Annotations to create static Dart interfaces for JavaScript APIs
+  package_url: https://pub.dartlang.org/js
+  version: 0.6.4
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: example/pubspec.lock
+  detection_source: pubspec.yaml
+  last_updated_by: Henrique Arthur
+  last_updated_on: 2019-08-25 00:12:53.000000000 Z
+- name: meta
+  description: Annotations used to express developer intentions that can't otherwise
+    be deduced by statically analyzing source code
+  package_url: https://pub.dartlang.org/meta
+  version: 1.8.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: example/pubspec.lock
+  detection_source: pubspec.yaml
+  last_updated_by: Jon Hanson
+  last_updated_on: 2022-09-25 13:57:05.000000000 Z
+- name: path
+  description: A string-based path manipulation library
+  package_url: https://pub.dartlang.org/path
+  version: 1.8.2
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: example/pubspec.lock
+  detection_source: pubspec.yaml
+  last_updated_by: Jon Hanson
+  last_updated_on: 2022-11-27 17:57:01.000000000 Z
+- name: universal_io
+  description: Cross-platform 'dart:io' that adds browser support for HttpClient and
+    some other "dart:io" APIs
+  package_url: https://pub.dartlang.org/universal_io
+  version: 2.0.4
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: example/pubspec.lock
+  detection_source: pubspec.yaml
+  last_updated_by: Jon Hanson
+  last_updated_on: 2023-01-16 02:50:13.000000000 Z
+- name: xml
+  description: A lightweight library for parsing
+  package_url: https://pub.dartlang.org/xml
+  version: 6.1.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: example/pubspec.lock
+  detection_source: pubspec.yaml
+  last_updated_by: Henrique Arthur
+  last_updated_on: 2019-08-25 00:12:53.000000000 Z
+- name: yaml
+  description: A parser for YAML
+  package_url: https://pub.dartlang.org/yaml
+  version: 3.1.1
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pub/image.png
+  detection_source_url: example/pubspec.lock
+  detection_source: pubspec.yaml
+  last_updated_by: Jon Hanson
+  last_updated_on: 2022-05-15 15:07:37.000000000 Z
