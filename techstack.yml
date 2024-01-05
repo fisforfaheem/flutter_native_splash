@@ -1,7 +1,8 @@
 repo_name: fisforfaheem/flutter_native_splash
 report_id: 45c7deb9b808ddb7e61fa3c25402b6af
+version: 0.1
 repo_type: Public
-timestamp: '2023-11-10T06:41:50+00:00'
+timestamp: '2024-01-05T08:58:09+00:00'
 requested_by: jonbhanson
 provider: github
 branch: master
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1646/Twitter-02.png
+  detection_source_url: https://github.com/fisforfaheem/flutter_native_splash
   detection_source: Repo Metadata
 - name: Java
   description: A concurrent, class-based, object-oriented, language specifically designed
@@ -26,6 +28,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
+  detection_source_url: https://github.com/fisforfaheem/flutter_native_splash
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -36,6 +39,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/fisforfaheem/flutter_native_splash/blob/master/pubspec.yaml
   detection_source: pubspec.yaml
   last_updated_by: Jon Hanson
   last_updated_on: 2022-11-27 17:57:01.000000000 Z
@@ -48,6 +52,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1008/xcode.png
+  detection_source_url: https://github.com/fisforfaheem/flutter_native_splash
   detection_source: Repo Metadata
 - name: Ruby
   description: A dynamic, interpreted, open source programming language with a focus
@@ -58,6 +63,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/989/ruby.png
+  detection_source_url: https://github.com/fisforfaheem/flutter_native_splash
   detection_source: Repo Metadata
 - name: Swift
   description: 'An innovative new programming language for Cocoa and Cocoa Touch. '
@@ -68,6 +74,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1009/tuHsaI2U.png
+  detection_source_url: https://github.com/fisforfaheem/flutter_native_splash/blob/master/ios/flutter_native_splash.podspec
   detection_source: ios/flutter_native_splash.podspec
   last_updated_by: Jon Hanson
   last_updated_on: 2022-02-20 15:13:54.000000000 Z
@@ -80,6 +87,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Frameworks (Full Stack)
   image_url: https://img.stackshare.io/service/1010/m8jf0po4imu8t5eemjdd.png
+  detection_source_url: https://github.com/fisforfaheem/flutter_native_splash/blob/master/example/android/app/build.gradle
   detection_source: example/android/app/build.gradle
   last_updated_by: Jon Hanson
   last_updated_on: 2022-02-20 15:13:54.000000000 Z
@@ -92,7 +100,8 @@ tools:
   category: Languages & Frameworks
   sub_category: Cross-Platform Mobile Development
   image_url: https://img.stackshare.io/service/7180/flutter-mark-square-100.png
-  detection_source: pubspec.yaml
+  detection_source_url: https://github.com/fisforfaheem/flutter_native_splash/blob/master/example/pubspec.yaml
+  detection_source: example/pubspec.yaml
   last_updated_by: Jon Hanson
   last_updated_on: 2022-09-25 13:57:05.000000000 Z
 - name: Git
@@ -103,6 +112,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/fisforfaheem/flutter_native_splash
   detection_source: Repo Metadata
 - name: GitHub Actions
   description: Automate your workflow from idea to production
@@ -112,6 +122,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/fisforfaheem/flutter_native_splash/blob/master/.github/workflows/ci.yaml
   detection_source: ".github/workflows/ci.yaml"
   last_updated_by: lsaudon
   last_updated_on: 2022-10-23 15:15:44.000000000 Z
@@ -124,6 +135,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Java Build Tools
   image_url: https://img.stackshare.io/service/975/gradlephant-social-black-bg.png
+  detection_source_url: https://github.com/fisforfaheem/flutter_native_splash/blob/master/android/build.gradle
   detection_source: android/build.gradle
   last_updated_by: Jon Hanson
   last_updated_on: 2022-09-25 13:57:05.000000000 Z
@@ -136,6 +148,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Continuous Integration
   image_url: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
+  detection_source_url: https://github.com/fisforfaheem/flutter_native_splash/blob/master/.travis.yml
   detection_source: ".travis.yml"
   last_updated_by: Henrique Arthur
   last_updated_on: 2019-08-25 20:41:54.000000000 Z
@@ -147,6 +160,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Front End Package Manager
   image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/fisforfaheem/flutter_native_splash/blob/master/pubspec.yaml
   detection_source: pubspec.yaml
   last_updated_by: Henrique Arthur
   last_updated_on: 2019-08-25 00:12:53.000000000 Z
@@ -158,6 +172,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Operating Systems
   image_url: https://img.stackshare.io/service/9586/ZvmtaSXW_400x400.jpg
+  detection_source_url: https://github.com/fisforfaheem/flutter_native_splash/blob/master/example/android/app/build.gradle
   detection_source: example/android/app/build.gradle
   last_updated_by: Jon Hanson
   last_updated_on: 2022-02-20 15:13:54.000000000 Z
@@ -169,6 +184,7 @@ tools:
   category: Libraries
   sub_category: CocoaPods Packages
   image_url: https://img.stackshare.io/service/2426/e1cbdef9d4b11484049a033886578e54_400x400.png
+  detection_source_url: https://github.com/fisforfaheem/flutter_native_splash/blob/master/ios/flutter_native_splash.podspec
   detection_source: ios/flutter_native_splash.podspec
   last_updated_by: Jon Hanson
   last_updated_on: 2022-02-20 15:13:54.000000000 Z
@@ -177,6 +193,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/5588/jscom.png
+  detection_source_url: https://github.com/fisforfaheem/flutter_native_splash/blob/master/pubspec.yaml
   detection_source: pubspec.yaml
   last_updated_by: Henrique Arthur
   last_updated_on: 2019-08-25 00:12:53.000000000 Z
@@ -190,7 +207,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/pub/image.png
-  detection_source_url: example/pubspec.lock
+  detection_source_url: https://github.com/fisforfaheem/flutter_native_splash/blob/master/example/pubspec.lock
   detection_source: pubspec.yaml
   last_updated_by: Jon Hanson
   last_updated_on: 2022-05-15 15:07:37.000000000 Z
@@ -203,7 +220,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/pub/image.png
-  detection_source_url: example/pubspec.lock
+  detection_source_url: https://github.com/fisforfaheem/flutter_native_splash/blob/master/example/pubspec.lock
   detection_source: example/pubspec.yaml
   last_updated_by: Jon Hanson
   last_updated_on: 2022-09-25 13:57:05.000000000 Z
@@ -216,8 +233,8 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/pub/image.png
-  detection_source_url: example/pubspec.lock
-  detection_source: pubspec.yaml
+  detection_source_url: https://github.com/fisforfaheem/flutter_native_splash/blob/master/example/pubspec.lock
+  detection_source: example/pubspec.yaml
   last_updated_by: Jon Hanson
   last_updated_on: 2022-09-25 13:57:05.000000000 Z
 - name: flutter_native_splash
@@ -230,7 +247,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/pub/image.png
-  detection_source_url: example/pubspec.lock
+  detection_source_url: https://github.com/fisforfaheem/flutter_native_splash/blob/master/example/pubspec.lock
   detection_source: example/pubspec.yaml
   last_updated_by: Jon Hanson
   last_updated_on: 2022-11-27 17:57:01.000000000 Z
@@ -243,7 +260,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/pub/image.png
-  detection_source_url: example/pubspec.lock
+  detection_source_url: https://github.com/fisforfaheem/flutter_native_splash/blob/master/example/pubspec.lock
   detection_source: pubspec.yaml
   last_updated_by: Jon Hanson
   last_updated_on: 2022-10-23 16:54:21.000000000 Z
@@ -256,7 +273,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/pub/image.png
-  detection_source_url: example/pubspec.lock
+  detection_source_url: https://github.com/fisforfaheem/flutter_native_splash/blob/master/example/pubspec.lock
   detection_source: pubspec.yaml
   last_updated_by: Jon Hanson
   last_updated_on: 2023-01-16 02:50:13.000000000 Z
@@ -269,7 +286,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/pub/image.png
-  detection_source_url: example/pubspec.lock
+  detection_source_url: https://github.com/fisforfaheem/flutter_native_splash/blob/master/example/pubspec.lock
   detection_source: pubspec.yaml
   last_updated_by: Henrique Arthur
   last_updated_on: 2019-08-25 00:12:53.000000000 Z
@@ -283,7 +300,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/pub/image.png
-  detection_source_url: example/pubspec.lock
+  detection_source_url: https://github.com/fisforfaheem/flutter_native_splash/blob/master/example/pubspec.lock
   detection_source: pubspec.yaml
   last_updated_by: Jon Hanson
   last_updated_on: 2022-09-25 13:57:05.000000000 Z
@@ -296,7 +313,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/pub/image.png
-  detection_source_url: example/pubspec.lock
+  detection_source_url: https://github.com/fisforfaheem/flutter_native_splash/blob/master/example/pubspec.lock
   detection_source: pubspec.yaml
   last_updated_by: Jon Hanson
   last_updated_on: 2022-11-27 17:57:01.000000000 Z
@@ -310,7 +327,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/pub/image.png
-  detection_source_url: example/pubspec.lock
+  detection_source_url: https://github.com/fisforfaheem/flutter_native_splash/blob/master/example/pubspec.lock
   detection_source: pubspec.yaml
   last_updated_by: Jon Hanson
   last_updated_on: 2023-01-16 02:50:13.000000000 Z
@@ -323,7 +340,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/pub/image.png
-  detection_source_url: example/pubspec.lock
+  detection_source_url: https://github.com/fisforfaheem/flutter_native_splash/blob/master/example/pubspec.lock
   detection_source: pubspec.yaml
   last_updated_by: Henrique Arthur
   last_updated_on: 2019-08-25 00:12:53.000000000 Z
@@ -336,7 +353,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Package Managers
   image_url: https://img.stackshare.io/package/pub/image.png
-  detection_source_url: example/pubspec.lock
+  detection_source_url: https://github.com/fisforfaheem/flutter_native_splash/blob/master/example/pubspec.lock
   detection_source: pubspec.yaml
   last_updated_by: Jon Hanson
   last_updated_on: 2022-05-15 15:07:37.000000000 Z
